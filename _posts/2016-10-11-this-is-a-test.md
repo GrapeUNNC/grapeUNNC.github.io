@@ -1,4 +1,16 @@
-# This is a test
+---
+layout: post
+title:  Test
+date:   2016-10-11 16:45:00 +0800
+categories: just a test
+tag: test
+---
+
+* content
+{:toc}
+
+This is a test
+===============
 
 ## First
 *blah*
