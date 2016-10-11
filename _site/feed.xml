@@ -2,12 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Actually, less is more!</description>
-    <link>http://www.hifreud.com/</link>
-    <atom:link href="http://www.hifreud.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Oct 2016 14:53:08 +0800</pubDate>
-    <lastBuildDate>Tue, 11 Oct 2016 14:53:08 +0800</lastBuildDate>
+    <description>Team Solo Mid.</description>
+    <link>https://yangyugao.github.io/</link>
+    <atom:link href="https://yangyugao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 11 Oct 2016 16:53:12 +0800</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 16:53:12 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#this-is-a-test&quot; id=&quot;markdown-toc-this-is-a-test&quot;&gt;This is a test&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#first&quot; id=&quot;markdown-toc-first&quot;&gt;First&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#second&quot; id=&quot;markdown-toc-second&quot;&gt;Second&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#third&quot; id=&quot;markdown-toc-third&quot;&gt;Third&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;this-is-a-test&quot;&gt;This is a test&lt;/h1&gt;
+
+&lt;h2 id=&quot;first&quot;&gt;First&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;blah&lt;/em&gt;
+&lt;em&gt;blah&lt;/em&gt;
+&lt;strong&gt;blah&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;second&quot;&gt;Second&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;one&lt;/li&gt;
+  &lt;li&gt;two&lt;/li&gt;
+  &lt;li&gt;three
+    &lt;h2 id=&quot;third&quot;&gt;Third&lt;/h2&gt;
+    &lt;ol&gt;
+      &lt;li&gt;what’s up&lt;/li&gt;
+      &lt;li&gt;eat sth.&lt;/li&gt;
+      &lt;li&gt;coding&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 11 Oct 2016 16:45:00 +0800</pubDate>
+        <link>https://yangyugao.github.io/2016/10/11/this-is-a-test/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2016/10/11/this-is-a-test/</guid>
+        
+        <category>test</category>
+        
+        
+        <category>just</category>
+        
+        <category>a</category>
+        
+        <category>test</category>
+        
+      </item>
     
       <item>
         <title>如何使用LessOrMore这个Jekyll模版</title>
@@ -126,8 +173,8 @@ tag: 教程
 &lt;p&gt;&lt;img src=&quot;/styles/images/weixin.png&quot; alt=&quot;微信二维码付款给Freud&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Aug 2016 01:08:00 +0800</pubDate>
-        <link>http://www.hifreud.com/2016/08/27/how-to-use-this-jekyll-theme/</link>
-        <guid isPermaLink="true">http://www.hifreud.com/2016/08/27/how-to-use-this-jekyll-theme/</guid>
+        <link>https://yangyugao.github.io/2016/08/27/how-to-use-this-jekyll-theme/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2016/08/27/how-to-use-this-jekyll-theme/</guid>
         
         <category>教程</category>
         
@@ -175,8 +222,8 @@ tag: 教程
 &lt;p&gt;深呼吸然后记住这只是一次谈话，面试官给你一个评价是很重要的，但是同样重要的是你也要给面试官一个评价，并且确认这是你想要工作的地方。&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Dec 2014 20:05:00 +0800</pubDate>
-        <link>http://www.hifreud.com/2014/12/20/I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This/</link>
-        <guid isPermaLink="true">http://www.hifreud.com/2014/12/20/I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This/</guid>
+        <link>https://yangyugao.github.io/2014/12/20/I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2014/12/20/I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This/</guid>
         
         <category>interview</category>
         
@@ -204,8 +251,8 @@ tag: 教程
 
 </description>
         <pubDate>Mon, 17 Nov 2014 13:31:01 +0800</pubDate>
-        <link>http://www.hifreud.com/2014/11/17/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://www.hifreud.com/2014/11/17/welcome-to-jekyll/</guid>
+        <link>https://yangyugao.github.io/2014/11/17/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2014/11/17/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
