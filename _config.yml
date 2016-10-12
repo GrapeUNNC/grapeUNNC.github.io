@@ -25,9 +25,9 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : disqus
-    #duoshuo:
-    #    short_name : luoyan35714
+    provider : duoshuo
+    duoshuo:
+        short_name : luoyan35714
     disqus :
         short_name : Mei
     # facebook :
