@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  2016-10-11 Meeting Minutes
-date:   2016-10-11 16:45:00 +0800
+title:  2016-09-20 Meeting Minutes
+date:   2016-09-20 16:45:00 +0800
 categories: ''
-tag: 2016-10-11-Meeting-Minutes
+tag: 2016-09-20-Meeting-Minutes
 ---
 
 * content
