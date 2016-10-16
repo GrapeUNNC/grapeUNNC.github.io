@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Test
+title:  2016-09-26 Meeting Minutes
 date:   2016-09-26 10:30:00 +0800
 categories: ''
 tag: 2016-09-26-Meeting-Minutes

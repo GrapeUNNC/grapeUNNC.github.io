@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Test
+title:  2016-10-11 Meeting Minutes
 date:   2016-10-11 16:45:00 +0800
-categories: test
-tag: test
+categories: ''
+tag: 2016-10-11-Meeting-Minutes
 ---
 
 * content
