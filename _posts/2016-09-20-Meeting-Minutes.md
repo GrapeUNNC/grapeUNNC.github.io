@@ -13,7 +13,9 @@ tag: 2016-09-20-Meeting-Minutes
 
 #GRP Meeting Minutes
 
-##Date2016.9.20##Time15：00-16：00##LocationSEB 448##RecorderMuyi Jiang##PresenceZhengfeng Zhou, Yangyu Gao, Zhe Ren, Jiaying Sun, Kan Liu, Muyi Jiang##Absence（Reason）Meeting Report/Discussion Issues
+##Date2016.9.20##Time15：00-16：00##LocationSEB 448##RecorderMuyi Jiang##PresenceZhengfeng Zhou, Yangyu Gao, Zhe Ren, Jiaying Sun, Kan Liu, Muyi Jiang
+
+##Discussion:
 1. Formal meeting:	* 10:00 each Monday		* Prepare agenda before Formal meeting	* Agenda should include discussion point and what action will be taken
 2. Meeting minutes:	* What have been discussed and the results	* What plan have been made	* Group members record meeting minutes in turn
 3.	Site:	* Pay more attention to the function of website
