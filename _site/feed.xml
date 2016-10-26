@@ -5,259 +5,246 @@
     <description>Team Solo Mid.</description>
     <link>https://yangyugao.github.io/</link>
     <atom:link href="https://yangyugao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Oct 2016 16:53:12 +0800</pubDate>
-    <lastBuildDate>Tue, 11 Oct 2016 16:53:12 +0800</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2016 18:01:11 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2016 18:01:11 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Test</title>
+        <title>2016-10-10 Meeting Minutes</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#this-is-a-test&quot; id=&quot;markdown-toc-this-is-a-test&quot;&gt;This is a test&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#first&quot; id=&quot;markdown-toc-first&quot;&gt;First&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#second&quot; id=&quot;markdown-toc-second&quot;&gt;Second&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#third&quot; id=&quot;markdown-toc-third&quot;&gt;Third&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#meeting-10-oct-2016&quot; id=&quot;markdown-toc-meeting-10-oct-2016&quot;&gt;Meeting: 10 Oct. 2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;meeting-10-oct-2016&quot;&gt;Meeting: 10 Oct. 2016&lt;/h1&gt;
+
+&lt;p&gt;###Student:&lt;/p&gt;
+
+&lt;p&gt;Zhefeng ZHOU, Yangyu GAO, Muyi JIANG, Jiaying SUN, Kan LIU, Zhe REN&lt;/p&gt;
+
+&lt;p&gt;###Supervisors:&lt;/p&gt;
+
+&lt;p&gt;Heshan DU&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;###Aim:&lt;/p&gt;
+
+&lt;p&gt;To discuss methods to specify our jobs of this project&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;###Agenda:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Website template&lt;/li&gt;
+  &lt;li&gt;Draft of questionnaire&lt;/li&gt;
+  &lt;li&gt;Requirement specification&lt;/li&gt;
+  &lt;li&gt;Report&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;###Discussion:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Website
+    &lt;ul&gt;
+      &lt;li&gt;We planed to use a web page template to create our website. This template contains a timeline as a clue, which is convenient to record the progress of our project.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;this-is-a-test&quot;&gt;This is a test&lt;/h1&gt;
-
-&lt;h2 id=&quot;first&quot;&gt;First&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;blah&lt;/em&gt;
-&lt;em&gt;blah&lt;/em&gt;
-&lt;strong&gt;blah&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;second&quot;&gt;Second&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;one&lt;/li&gt;
-  &lt;li&gt;two&lt;/li&gt;
-  &lt;li&gt;three
-    &lt;h2 id=&quot;third&quot;&gt;Third&lt;/h2&gt;
-    &lt;ol&gt;
-      &lt;li&gt;what’s up&lt;/li&gt;
-      &lt;li&gt;eat sth.&lt;/li&gt;
-      &lt;li&gt;coding&lt;/li&gt;
-    &lt;/ol&gt;
+  &lt;li&gt;Questionnaire template
+    &lt;ul&gt;
+      &lt;li&gt;Firstly, we discussed the context of the questionnaire template. Some questions of it are not suitable, so we decided to make questions more specific and focus on smaller group like classmates.&lt;/li&gt;
+      &lt;li&gt;Then, we discussed research checklist. There are some problems need to be revised, such as the relevance of secondary data sets. In addition, we knew there is some jobs of making a questionnaire, such as attaching information sheet and assigning identified id number, etc.&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;Requirement specification
+    &lt;ul&gt;
+      &lt;li&gt;We discussed that how to write the requirement specification of our software. The specification should describe functions of our software. A method is to search online and find some templates as a reference.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Report
+    &lt;ul&gt;
+      &lt;li&gt;We discussed that when we should start to write interim report. We decided to accomplish a draft of interim report two weeks earlier than the deadline to have enough time to revise.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;###Action Points&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prepare website&lt;/li&gt;
+  &lt;li&gt;Try to solve the problems of questionnaire&lt;/li&gt;
+  &lt;li&gt;Prepare draft of requirement specification&lt;/li&gt;
+  &lt;li&gt;Keep learning Java GUI programming and LaTex&lt;/li&gt;
+  &lt;li&gt;Consider the date of writing report&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;###Next Meeting: 17 Oct. 2016&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 11 Oct 2016 16:45:00 +0800</pubDate>
-        <link>https://yangyugao.github.io/2016/10/11/this-is-a-test/</link>
-        <guid isPermaLink="true">https://yangyugao.github.io/2016/10/11/this-is-a-test/</guid>
+        <pubDate>Mon, 10 Oct 2016 10:30:00 +0800</pubDate>
+        <link>https://yangyugao.github.io/2016/10/10/Meeting-Minutes/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2016/10/10/Meeting-Minutes/</guid>
         
-        <category>test</category>
+        <category>2016-10-10-Meeting-Minutes</category>
         
-        
-        <category>just</category>
-        
-        <category>a</category>
-        
-        <category>test</category>
         
       </item>
     
       <item>
-        <title>如何使用LessOrMore这个Jekyll模版</title>
+        <title>2016-09-26 Meeting Minutes</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;致谢&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-1&quot; id=&quot;markdown-toc-section-1&quot;&gt;使用&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-2&quot; id=&quot;markdown-toc-section-2&quot;&gt;下载&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-3&quot; id=&quot;markdown-toc-section-3&quot;&gt;配置&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-4&quot; id=&quot;markdown-toc-section-4&quot;&gt;如何写文章&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-5&quot; id=&quot;markdown-toc-section-5&quot;&gt;执行&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-6&quot; id=&quot;markdown-toc-section-6&quot;&gt;效果&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-7&quot; id=&quot;markdown-toc-section-7&quot;&gt;为什么重复造轮子&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-8&quot; id=&quot;markdown-toc-section-8&quot;&gt;关于作者&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-9&quot; id=&quot;markdown-toc-section-9&quot;&gt;关于打赏&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-10&quot; id=&quot;markdown-toc-section-10&quot;&gt;支付宝&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-11&quot; id=&quot;markdown-toc-section-11&quot;&gt;微信&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#meeting-26-sep-2016&quot; id=&quot;markdown-toc-meeting-26-sep-2016&quot;&gt;Meeting: 26 Sep. 2016&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;section&quot;&gt;致谢&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;&quot;&gt;Less官网&lt;/a&gt;的样式，本Jekyll框架的样式都是基于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。&lt;/li&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;提供的代码维护和发布平台&lt;/li&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;团队做出如此优秀的产品&lt;/li&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;https://github.com/mattvh/solar-theme-jekyll&quot;&gt;Solar&lt;/a&gt;的原作者&lt;a href=&quot;http://www.webmaster-source.com/&quot;&gt;Matt Harzewski&lt;/a&gt;，在&lt;code class=&quot;highlighter-rouge&quot;&gt;2014.11&lt;/code&gt;-&lt;code class=&quot;highlighter-rouge&quot;&gt;2016.09&lt;/code&gt;的两年间，我的博客选用了此样式模版&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&quot;meeting-26-sep-2016&quot;&gt;Meeting: 26 Sep. 2016&lt;/h1&gt;
 
-&lt;h1 id=&quot;section-1&quot;&gt;使用&lt;/h1&gt;
+&lt;p&gt;##Student: 
+Zhefeng ZHOU, Yangyu GAO, Muyi JIANG, Jiaying SUN, Kan LIU, Zhe REN&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;下载&lt;/h2&gt;
+&lt;p&gt;##Supervisors: 
+Heshan DU&lt;/p&gt;
 
-&lt;p&gt;使用git从&lt;a href=&quot;https://github.com/luoyan35714/LessOrMore.git&quot;&gt;LessOrMore&lt;/a&gt;主页下载项目&lt;/p&gt;
+&lt;p&gt;##Aim:
+To discuss how to have a head start of our project.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https://github.com/luoyan35714/LessOrMore.git&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;##Agenda:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Background research&lt;/li&gt;
+  &lt;li&gt;Java GUI programming&lt;/li&gt;
+  &lt;li&gt;Algorithm in prototype&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;配置&lt;/h2&gt;
+&lt;p&gt;##Discussion:&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;LessOrMore&lt;/code&gt;项目需要配置的只有一个文件&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.xml&lt;/code&gt;，打开之后按照如下进行配置。&lt;/p&gt;
+&lt;p&gt;##1.	Background search&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;特别注意&lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt;的配置。如果是&lt;code class=&quot;highlighter-rouge&quot;&gt;***.github.io&lt;/code&gt;项目，不修改为空’‘的话，会导致JS,CSS等静态资源无法找到的错误&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;We discussed two ways to do background search, one is issuing questionnaire and other one is searching similar apps via Internet and checking their features.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;name: 博客名称
-email: 邮箱地址
-author: 作者名
-url: 个人网站
-&lt;span class=&quot;c&quot;&gt;### baseurl修改为项目名，如果项目是'***.github.io'，则设置为空''&lt;/span&gt;
-baseurl: &lt;span class=&quot;s2&quot;&gt;&quot;/LessOrMore&quot;&lt;/span&gt;
-resume_site: 个人简历网站
-github: github地址
-github_username: github用户名称
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : 多说账户
-    disqus :
-        short_name : Disqus账户&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;如何写文章&lt;/h2&gt;
+&lt;p&gt;##2.	Java GUI tutorial&lt;/p&gt;
 
-&lt;p&gt;在&lt;code class=&quot;highlighter-rouge&quot;&gt;LessOrMore/_posts&lt;/code&gt;目录下新建一个文件，可以创建文件夹并在文件夹中添加文件，方便维护。在新建文件中粘贴如下信息，并修改以下的&lt;code class=&quot;highlighter-rouge&quot;&gt;titile&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;date&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;categories&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;tag&lt;/code&gt;的相关信息，添加&lt;code class=&quot;highlighter-rouge&quot;&gt;* content {:toc}&lt;/code&gt;为目录相关信息，在进行正文书写前需要在目录和正文之间输入至少2行空行。然后按照正常的Markdown语法书写正文。&lt;/p&gt;
+&lt;p&gt;We discussed how to make a head start of Java GUI programming, and decided to start from the textbook and produce simple demo to get familiar with related packages.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;---
-layout: post
-&lt;span class=&quot;c&quot;&gt;#标题配置&lt;/span&gt;
-title:  标题
-&lt;span class=&quot;c&quot;&gt;#时间配置&lt;/span&gt;
-date:   2016-08-27 01:08:00 +0800
-&lt;span class=&quot;c&quot;&gt;#大类配置&lt;/span&gt;
-categories: document
-&lt;span class=&quot;c&quot;&gt;#小类配置&lt;/span&gt;
-tag: 教程
----
+&lt;hr /&gt;
 
-&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; content
-&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;:toc&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;p&gt;##3.	Algorithm in prototype&lt;/p&gt;
 
+&lt;p&gt;We discussed which sorting algorithm to start with when developing the prototype.  Possible options include bubble sort, selection sort and insertion sort, we’ll learn a little bit and discuss it before 30 Sep. 2016.&lt;/p&gt;
 
-我是正文。我是正文。我是正文。我是正文。我是正文。我是正文。&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;执行&lt;/h2&gt;
+&lt;p&gt;##Action Points&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;jekyll server&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;Set up the website for the project&lt;/li&gt;
+  &lt;li&gt;Design and issue the questionnaire, and send a draft to Heshan&lt;/li&gt;
+  &lt;li&gt;Start to prepare the first version of requirement specification&lt;/li&gt;
+  &lt;li&gt;Produce simple java programs with GUI&lt;/li&gt;
+  &lt;li&gt;Decide which algorithm would be used in the prototype, learn and implement it in java code&lt;/li&gt;
+  &lt;li&gt;Start to learn Latex, get the software download and installed on the computer&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;效果&lt;/h2&gt;
-&lt;p&gt;打开浏览器并输入URL&lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000/&lt;/code&gt;,回车。&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h1 id=&quot;section-7&quot;&gt;为什么重复造轮子&lt;/h1&gt;
+&lt;p&gt;####Next Meeting: 10 Oct. 2016&lt;/p&gt;
 
-&lt;p&gt;很明显，我在重复造轮子。在13年接触到GIT，14年末接触到Jekyll，然后搭建了自己的博客，当时是选用了&lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;JekyllThemes&lt;/a&gt;上的&lt;a href=&quot;https://github.com/mattvh/solar-theme-jekyll&quot;&gt;Solar&lt;/a&gt;主题，一直到现在。不过中间一直感觉页面风格还是偏暗，阅读不方便。并且有一些小的细节做的不是很好。在页面的跨平台浏览上有一些瑕疵。并且不区分一级标题和二级标题，导致没有重点强调。诸如此类，用了2年，用的越多，越发吃力，中间就一直在寻找新的能够让我一眼认定的主题。&lt;/p&gt;
-
-&lt;p&gt;虽然设计好看的主题很多。但是真正适合拿来做博客的却不多。中间一直没有找到合适的主题。直到有一天看到Less官网的主题之后，豁然觉得这就是我的博客想要的样子。简单而又不平凡。所以就决定了要把博客迁移到这个主题，然后拿了两天晚上来把这个主题做出来。&lt;/p&gt;
-
-&lt;p&gt;重复造了轮子，但是这个是迄今为止自己觉得最适合我的博客的轮子，所以是值得的！&lt;/p&gt;
-
-&lt;h1 id=&quot;section-8&quot;&gt;关于作者&lt;/h1&gt;
-
-&lt;p&gt;热爱开源，热爱折腾的Java程序猿。更多个人信息和联系方式可以参照&lt;a href=&quot;http://www.hifreud.com/Resume.io/&quot;&gt;我的简介&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;section-9&quot;&gt;关于打赏&lt;/h1&gt;
-
-&lt;p&gt;如果你也像我一样在寻觅一个简洁的博客主题。不妨试下LessOrMore。&lt;/p&gt;
-
-&lt;p&gt;当然你也可以为了我的工作打赏！以激励我做出更好的东西。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-10&quot;&gt;支付宝&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/styles/images/zhifubao.PNG&quot; alt=&quot;支付宝二维码付款给Freud&quot; width=&quot;310&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;section-11&quot;&gt;微信&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/styles/images/weixin.png&quot; alt=&quot;微信二维码付款给Freud&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 27 Aug 2016 01:08:00 +0800</pubDate>
-        <link>https://yangyugao.github.io/2016/08/27/how-to-use-this-jekyll-theme/</link>
-        <guid isPermaLink="true">https://yangyugao.github.io/2016/08/27/how-to-use-this-jekyll-theme/</guid>
+        <pubDate>Mon, 26 Sep 2016 10:30:00 +0800</pubDate>
+        <link>https://yangyugao.github.io/2016/09/26/Meeting-Minutes/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2016/09/26/Meeting-Minutes/</guid>
         
-        <category>教程</category>
+        <category>2016-09-26-Meeting-Minutes</category>
         
-        
-        <category>document</category>
         
       </item>
     
       <item>
-        <title>我面试过的上百个候选者中成功的人总会做的事情</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;充分的准备，知道哪些事情是想要让面试官知道的。&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-1&quot; id=&quot;markdown-toc-section-1&quot;&gt;了解你的听众，组织你的回答语言。&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-2&quot; id=&quot;markdown-toc-section-2&quot;&gt;保持冷静，记住这次面试是双向的。&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+        <title>2016-09-20 Meeting Minutes</title>
+        <description>
+&lt;p&gt;#GRP Meeting Minutes&lt;/p&gt;
 
-&lt;p&gt;本文翻译自&lt;a href=&quot;https://www.linkedin.com/&quot;&gt;Linked In&lt;/a&gt;，作者Minal Mehta&lt;/p&gt;
+&lt;p&gt;##Date
+2016.9.20&lt;/p&gt;
 
-&lt;p&gt;原文地址 &lt;a href=&quot;http://www.linkedin.com/pulse/20141002164029-1473578-how-to-win-an-interview-before-it-starts?midToken=AQH6jyhMOpWb0g&amp;amp;trk=eml-b2_content_ecosystem_digest-recommended_articles-74-null&amp;amp;fromEmail=fromEmail&amp;amp;ut=3Sa86TzhqLj6s1&quot;&gt;I’ve Interviewed 100s of Candidates and the Ones I Hire Always Do This&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;##Time
+15：00-16：00&lt;/p&gt;
 
-&lt;p&gt;面试是很有压力的一件事，通常，你只有不到一个小时的时间来使面试官相信你是所有候选者中最合适那一个。这个面试官很有可能还会在当天面试其他的候选者并且还有其他的事情要做。那你如何才能够脱颖而出呢。&lt;/p&gt;
+&lt;p&gt;##Location
+SEB 448&lt;/p&gt;
 
-&lt;h1 id=&quot;section&quot;&gt;充分的准备，知道哪些事情是想要让面试官知道的。&lt;/h1&gt;
+&lt;p&gt;##Recorder
+Muyi Jiang&lt;/p&gt;
 
-&lt;p&gt;通过上百个我做组织的面试者们，我发现最合适的那些面试者永远都是表达最清晰的。&lt;/p&gt;
+&lt;p&gt;##Presence
+Zhengfeng Zhou, Yangyu Gao, Zhe Ren, 
+Jiaying Sun, Kan Liu, Muyi Jiang&lt;/p&gt;
 
-&lt;p&gt;所有人都知道充足的准备是必要的，但是如何准备是极其重要的，许多人会准备一份面试题和答案的合集，这导致一部分人在遇到合集以外的问题的时候会恐慌（我见过许多人恐慌或者说“这是一个好问题”，当我面试别人或者帮助那些学生准备面试的时候）&lt;/p&gt;
+&lt;p&gt;##Discussion:&lt;/p&gt;
 
-&lt;p&gt;以下是我的建议：以最近的记忆最清晰的工作流程开始。通过阅读他们的信息或者询问那些你知道的在这工作的朋友来调查面试的公司和职位，了解他们正在寻找一个拥有什么样能力和文化的人&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Formal meeting:
+    &lt;ul&gt;
+      &lt;li&gt;10:00 each Monday&lt;/li&gt;
+      &lt;li&gt;Prepare agenda before Formal meeting&lt;/li&gt;
+      &lt;li&gt;Agenda should include discussion point and what action will be taken&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Meeting minutes:
+    &lt;ul&gt;
+      &lt;li&gt;What have been discussed and the results&lt;/li&gt;
+      &lt;li&gt;What plan have been made&lt;/li&gt;
+      &lt;li&gt;Group members record meeting minutes in turn&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Site:
+    &lt;ul&gt;
+      &lt;li&gt;Pay more attention to the function of website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brief introduction of Software
+    &lt;ul&gt;
+      &lt;li&gt;Desktop application&lt;/li&gt;
+      &lt;li&gt;Coding language: any language ( Supervisor can provide help in JAVA )&lt;/li&gt;
+      &lt;li&gt;User interface ( Study ourselves )&lt;/li&gt;
+      &lt;li&gt;Target group: classmates&lt;/li&gt;
+      &lt;li&gt;We could show the efficiency and correctness of different kind of sorting algorithms&lt;/li&gt;
+      &lt;li&gt;Choosing heap sort is difficult but may get higher mark&lt;/li&gt;
+      &lt;li&gt;We could allow user to interact with software&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The preparation of software
+    &lt;ul&gt;
+      &lt;li&gt;Specify roles for each group member in this project&lt;/li&gt;
+      &lt;li&gt;Do the background research&lt;/li&gt;
+      &lt;li&gt;From advice of supervisor, we could do one sorting algorithm together from beginning, after we all understand the process, we can divide other sorting algorithms to each group member.&lt;/li&gt;
+      &lt;li&gt;Prototype—it is better before mid of December, we could have a prototype running&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Report including:
+    &lt;ul&gt;
+      &lt;li&gt;Requirement specification&lt;/li&gt;
+      &lt;li&gt;The process of producing software&lt;/li&gt;
+      &lt;li&gt;What we have done to produce it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;了解自己，你自己最擅长什么？怎么让你自身如何与公司正在找的人相匹配？这个过程会让你有一个清晰的定位，知道这个公司的职位是不是真的适合你。假设是的，你的自身能力跟这个职位相匹配，你同样知道自己的不足在哪。&lt;/p&gt;
+&lt;p&gt;###28th, October&lt;/p&gt;
 
-&lt;p&gt;从你过往工作经历中找出你突出的贡献，那些你已经确定了你的能力和工作要求相交集的部分。并且，找出一些事情来证明你可以改善你不足的方面。通常，你想出来的这几件事件可以重新组装利用来彰显不同方面的能力。&lt;/p&gt;
-
-&lt;h1 id=&quot;section-1&quot;&gt;了解你的听众，组织你的回答语言。&lt;/h1&gt;
-
-&lt;p&gt;我推荐使用排序的组织来确保你的面试官可以理解你的表述。我是STAR方法的忠实粉丝：Situation处境（场景再现），Task任务（必须要做到的），Action行动（你实际做的），Result结果（发生了什么）&lt;/p&gt;
-
-&lt;p&gt;场景再现是最重要的，虽然你很清楚发生了什么，但是面试官不知道，花些时间来确保他们可以设身处地的知道当时的情况。如果你不这么做，剩下的故事将是对牛弹琴。&lt;/p&gt;
-
-&lt;p&gt;我个人也一直将同样的方法用在各种面试中。“如果你处在一个特定的情境下，你会怎么做？” 花点时间去建立一个共享的空间，让面试官了解情况，然后你们才能一起来聊需要做什么。&lt;/p&gt;
-
-&lt;h1 id=&quot;section-2&quot;&gt;保持冷静，记住这次面试是双向的。&lt;/h1&gt;
-
-&lt;p&gt;深呼吸然后记住这只是一次谈话，面试官给你一个评价是很重要的，但是同样重要的是你也要给面试官一个评价，并且确认这是你想要工作的地方。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Dec 2014 20:05:00 +0800</pubDate>
-        <link>https://yangyugao.github.io/2014/12/20/I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This/</link>
-        <guid isPermaLink="true">https://yangyugao.github.io/2014/12/20/I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This/</guid>
+        <pubDate>Tue, 20 Sep 2016 16:45:00 +0800</pubDate>
+        <link>https://yangyugao.github.io/2016/09/20/Meeting-Minutes/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2016/09/20/Meeting-Minutes/</guid>
         
-        <category>interview</category>
+        <category>2016-09-20-Meeting-Minutes</category>
         
-        
-        <category>翻译文章</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;诫子书&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;First POST build by Jekyll.&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;诫子书&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/styles/images/jiezishu.jpg&quot; alt=&quot;诫子书&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;诸葛亮&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;夫君子之行，静以修身，俭以养德。非淡泊(澹泊)无以明志，非宁静无以致远。夫学须静也，才须学也。非学无以广才，非志无以成学。淫慢则不能励精，险躁则不能冶性。
-年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 17 Nov 2014 13:31:01 +0800</pubDate>
-        <link>https://yangyugao.github.io/2014/11/17/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://yangyugao.github.io/2014/11/17/welcome-to-jekyll/</guid>
-        
-        <category>jekyll</category>
-        
-        
-        <category>jekyll</category>
         
       </item>
     
