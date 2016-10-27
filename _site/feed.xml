@@ -5,8 +5,8 @@
     <description>Team Solo Mid.</description>
     <link>https://yangyugao.github.io/</link>
     <atom:link href="https://yangyugao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Oct 2016 18:01:11 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2016 18:01:11 +0800</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2016 09:33:53 +0800</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2016 09:33:53 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -99,48 +99,69 @@
       <item>
         <title>2016-09-26 Meeting Minutes</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#meeting-26-sep-2016&quot; id=&quot;markdown-toc-meeting-26-sep-2016&quot;&gt;Meeting: 26 Sep. 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#grp-meeting-minutes&quot; id=&quot;markdown-toc-grp-meeting-minutes&quot;&gt;GRP Meeting Minutes&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#student&quot; id=&quot;markdown-toc-student&quot;&gt;Student:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#supervisors&quot; id=&quot;markdown-toc-supervisors&quot;&gt;Supervisors:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aim&quot; id=&quot;markdown-toc-aim&quot;&gt;Aim:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#agenda&quot; id=&quot;markdown-toc-agenda&quot;&gt;Agenda:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#discussion&quot; id=&quot;markdown-toc-discussion&quot;&gt;Discussion:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#action-points&quot; id=&quot;markdown-toc-action-points&quot;&gt;Action Points&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#next-meeting-10-oct-2016&quot; id=&quot;markdown-toc-next-meeting-10-oct-2016&quot;&gt;Next Meeting: 10 Oct. 2016&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;meeting-26-sep-2016&quot;&gt;Meeting: 26 Sep. 2016&lt;/h1&gt;
+&lt;h1 id=&quot;grp-meeting-minutes&quot;&gt;GRP Meeting Minutes&lt;/h1&gt;
 
-&lt;p&gt;##Student: 
-Zhefeng ZHOU, Yangyu GAO, Muyi JIANG, Jiaying SUN, Kan LIU, Zhe REN&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;##Supervisors: 
-Heshan DU&lt;/p&gt;
+&lt;h4 id=&quot;student&quot;&gt;Student:&lt;/h4&gt;
+&lt;p&gt;Zhefeng ZHOU, Yangyu GAO, Muyi JIANG, Jiaying SUN, Kan LIU, Zhe REN&lt;/p&gt;
 
-&lt;p&gt;##Aim:
-To discuss how to have a head start of our project.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;##Agenda:&lt;/p&gt;
+&lt;h4 id=&quot;supervisors&quot;&gt;Supervisors:&lt;/h4&gt;
+&lt;p&gt;Heshan DU&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;aim&quot;&gt;Aim:&lt;/h4&gt;
+&lt;p&gt;To discuss how to have a head start of our project.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;agenda&quot;&gt;Agenda:&lt;/h4&gt;
 &lt;ol&gt;
   &lt;li&gt;Background research&lt;/li&gt;
   &lt;li&gt;Java GUI programming&lt;/li&gt;
   &lt;li&gt;Algorithm in prototype&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;##Discussion:&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;##1.	Background search&lt;/p&gt;
+&lt;h4 id=&quot;discussion&quot;&gt;Discussion:&lt;/h4&gt;
 
-&lt;p&gt;We discussed two ways to do background search, one is issuing questionnaire and other one is searching similar apps via Internet and checking their features.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Background search&lt;/p&gt;
+
+    &lt;p&gt;We discussed two ways to do background search, one is issuing questionnaire and other one is searching similar apps via Internet and checking their features.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Java GUI tutorial&lt;/p&gt;
+
+    &lt;p&gt;We discussed how to make a head start of Java GUI programming, and decided to start from the textbook and produce simple demo to get familiar with related packages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Algorithm in prototype&lt;/p&gt;
+
+    &lt;p&gt;We discussed which sorting algorithm to start with when developing the prototype.  Possible options include bubble sort, selection sort and insertion sort, we’ll learn a little bit and discuss it before 30 Sep. 2016.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;##2.	Java GUI tutorial&lt;/p&gt;
-
-&lt;p&gt;We discussed how to make a head start of Java GUI programming, and decided to start from the textbook and produce simple demo to get familiar with related packages.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;##3.	Algorithm in prototype&lt;/p&gt;
-
-&lt;p&gt;We discussed which sorting algorithm to start with when developing the prototype.  Possible options include bubble sort, selection sort and insertion sort, we’ll learn a little bit and discuss it before 30 Sep. 2016.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;##Action Points&lt;/p&gt;
+&lt;h4 id=&quot;action-points&quot;&gt;Action Points&lt;/h4&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Set up the website for the project&lt;/li&gt;
@@ -153,7 +174,7 @@ To discuss how to have a head start of our project.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;####Next Meeting: 10 Oct. 2016&lt;/p&gt;
+&lt;h4 id=&quot;next-meeting-10-oct-2016&quot;&gt;Next Meeting: 10 Oct. 2016&lt;/h4&gt;
 
 </description>
         <pubDate>Mon, 26 Sep 2016 10:30:00 +0800</pubDate>
@@ -167,35 +188,55 @@ To discuss how to have a head start of our project.&lt;/p&gt;
     
       <item>
         <title>2016-09-20 Meeting Minutes</title>
-        <description>
-&lt;p&gt;#GRP Meeting Minutes&lt;/p&gt;
-
-&lt;p&gt;##Date
-2016.9.20&lt;/p&gt;
-
-&lt;p&gt;##Time
-15：00-16：00&lt;/p&gt;
-
-&lt;p&gt;##Location
-SEB 448&lt;/p&gt;
-
-&lt;p&gt;##Recorder
-Muyi Jiang&lt;/p&gt;
-
-&lt;p&gt;##Presence
-Zhengfeng Zhou, Yangyu Gao, Zhe Ren, 
-Jiaying Sun, Kan Liu, Muyi Jiang&lt;/p&gt;
-
-&lt;p&gt;##Discussion:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Formal meeting:
-    &lt;ul&gt;
-      &lt;li&gt;10:00 each Monday&lt;/li&gt;
-      &lt;li&gt;Prepare agenda before Formal meeting&lt;/li&gt;
-      &lt;li&gt;Agenda should include discussion point and what action will be taken&lt;/li&gt;
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#grp-meeting-minutes&quot; id=&quot;markdown-toc-grp-meeting-minutes&quot;&gt;GRP Meeting Minutes&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#date&quot; id=&quot;markdown-toc-date&quot;&gt;Date&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#time&quot; id=&quot;markdown-toc-time&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#location&quot; id=&quot;markdown-toc-location&quot;&gt;Location&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#recorder&quot; id=&quot;markdown-toc-recorder&quot;&gt;Recorder&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#presence&quot; id=&quot;markdown-toc-presence&quot;&gt;Presence&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#discussion&quot; id=&quot;markdown-toc-discussion&quot;&gt;Discussion:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#next-meeting&quot; id=&quot;markdown-toc-next-meeting&quot;&gt;Next Meeting:&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;grp-meeting-minutes&quot;&gt;GRP Meeting Minutes&lt;/h1&gt;
+
+&lt;h4 id=&quot;date&quot;&gt;Date&lt;/h4&gt;
+&lt;p&gt;2016.9.20&lt;/p&gt;
+
+&lt;h4 id=&quot;time&quot;&gt;Time&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	15：00-16：00
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;location&quot;&gt;Location&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	SEB 448
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;recorder&quot;&gt;Recorder&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	Muyi Jiang
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;presence&quot;&gt;Presence&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	Zhengfeng Zhou, Yangyu Gao, Zhe Ren, 
+	Jiaying Sun, Kan Liu, Muyi Jiang
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;discussion&quot;&gt;Discussion:&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	1. Formal meeting:
+* 10:00 each Monday	
+* Prepare agenda before Formal meeting
+* Agenda should include discussion point and what action will be taken
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
   &lt;li&gt;Meeting minutes:
     &lt;ul&gt;
       &lt;li&gt;What have been discussed and the results&lt;/li&gt;
@@ -236,7 +277,8 @@ Jiaying Sun, Kan Liu, Muyi Jiang&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;###28th, October&lt;/p&gt;
+&lt;h4 id=&quot;next-meeting&quot;&gt;Next Meeting:&lt;/h4&gt;
+&lt;p&gt;28th, October&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 20 Sep 2016 16:45:00 +0800</pubDate>

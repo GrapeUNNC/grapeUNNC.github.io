@@ -1,5 +1,5 @@
 # Site settings
-name: GRP - Group Five
+name: Team Grape
 email: 513296161@qq.com
 author: YangyuGao
 url: https://yangyugao.github.io
@@ -7,7 +7,7 @@ resume_site:
 github: https://github.com/YangyuGao/
 baseurl: ''
 description: Team Solo Mid.
-meta_description: Group V;GRP blog
+meta_description: Group V; GRP blog
 motto: It's our wits that make us men.
 banner: 1 + 1 = 10
 
