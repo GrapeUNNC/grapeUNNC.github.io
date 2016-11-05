@@ -2,7 +2,7 @@
 layout: post
 title:  2016-09-20 Meeting Minutes
 date:   2016-09-20 16:45:00 +0800
-categories: 2016-09-20-Meeting-Minutes
+categories: Meeting-Minutes
 ---
 
 * content
