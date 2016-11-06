@@ -53,4 +53,53 @@
 			box-shadow: 0 1px 0 rgba(255, 255, 255, 0.07);
 		}
   	</style>
+
+
+  	<!-- gantt chart -->
+	<link rel="stylesheet" href="{{ '/styles/css/gantt.css' | prepend: site.baseurl }}">
+
+  	<script src="{{ '/styles/js/loader.js' | prepend: site.baseurl }}"></script>
+	<script type="text/javascript">
+	    google.charts.load('current', {'packages':['gantt']});
+	    google.charts.setOnLoadCallback(drawChart);
+
+	    function drawChart() {
+
+	      var data = new google.visualization.DataTable();
+	      data.addColumn('string', 'Task ID');
+	      data.addColumn('string', 'Task Name');
+	      data.addColumn('string', 'Resource');
+	      data.addColumn('date', 'Start Date');
+	      data.addColumn('date', 'End Date');
+	      data.addColumn('number', 'Duration');
+	      data.addColumn('number', 'Percent Complete');
+	      data.addColumn('string', 'Dependencies');
+
+	      data.addRows([
+	        ['Website', 'Website', 'web',
+	         new Date(2016, 9, 14), new Date(2016, 10, 28), null, 100, null],
+	        ['Pre-Work', 'Pre-Work', 'others',
+	         new Date(2016, 9, 14), new Date(2016, 12, 16), null, 50, null],
+	        ['Interim Report', 'Interim Report', 'report',
+	         new Date(2016, 10, 28), new Date(2016, 12, 16), null, 0, null],
+	        ['Software', 'Software', 'software',
+	         new Date(2016, 12, 16), new Date(2017, 4, 28), null, 0, null],
+	        ['Final Report', 'Final Report', 'report',
+	         new Date(2016, 12, 16), new Date(2017, 4, 28), null, 0, null],
+	        ['Individual Report', 'Individual Report', 'report',
+	         new Date(2016, 12, 16), new Date(2017, 4, 28), null, 0, null]
+	      ]);
+
+	      var options = {
+	        height: 230,
+	        gantt: {
+	          trackHeight: 30
+	        }
+	      };
+
+	      var chart = new google.visualization.Gantt(document.getElementById('chart_div'));
+
+	      chart.draw(data, options);
+	    }
+	</script>
 </head>
