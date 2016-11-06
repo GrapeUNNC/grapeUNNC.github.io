@@ -9,7 +9,7 @@ baseurl: ''
 description: Team Solo Mid.
 meta_description: Group V; GRP blog
 motto: It's our wits that make us men.
-banner: 1 + 1 = 10
+banner: <a href="http://github.com/grapeunnc/algodomino">github</a>
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
