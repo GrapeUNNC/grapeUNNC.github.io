@@ -6133,8 +6133,6 @@ img {
 .img-responsive {
   display: block;
   max-width: 100%;
-  height: 90px;
-
 }
 .img-rounded {
   border-radius: 6px;
