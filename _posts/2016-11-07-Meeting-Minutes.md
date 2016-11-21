@@ -45,21 +45,21 @@ To discuss the progress of our project
 	* We decided to modify the Introduction part to make the requirement specification fit in interim report.
 	* We decided to make some user stories and UML design, then put them in a motivation part in interim report rather than requirement specification part.
 2. Website design
-	* We decided to improve the home page of website in the following two parts
-	  1)	The homepage should introduce the software and its main function.
-	  2)	The homepage should explain why our group is called “Grape”.
+	* We decided to improve the home page of website in the following two parts.  
+	  +  The homepage should introduce the software and its main function.
+	  +  The homepage should explain why our group is called “Grape”.
 	* We decided that the function of comment is not necessary.
 3. GUI design
-	* We decided to improve the mainframe part
-	  1)	The choosing algorithm button should show the full name of sort algorithm.
-	  2)	The input box should prompt users the format of input.
-	  3)	The progress bar should be under the bar graph.
-	  4)	We will decide where to put the “Random generate” button.
-	* We decided to improve the comparison part
-	  1)	We will reduce the number of choosing algorithm button to 2.
-	  2)	We will show the complexity of two algorithms in one coordinate system.
-	  3)	We will consider how the design the “Stop” button.
-	  4)	We will consider the relation between input size and complexity in coordinate system.
+	* We decided to improve the mainframe part.  
+	  +  The choosing algorithm button should show the full name of sort algorithm.  
+	  +  The input box should prompt users the format of input.  
+	  +  The progress bar should be under the bar graph.  
+	  +  We will decide where to put the “Random generate” button.
+	* We decided to improve the comparison part.  
+	  +  We will reduce the number of choosing algorithm button to 2.  
+	  +  We will show the complexity of two algorithms in one coordinate system.
+	  +  We will consider how the design the “Stop” button.  
+	  +  We will consider the relation between input size and complexity in coordinate system.
 4. Suggestion on system architecture
 	* We decided to focus on one algorithm and try to implement its main function. 
 
