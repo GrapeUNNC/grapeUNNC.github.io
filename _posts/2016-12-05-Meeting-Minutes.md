@@ -40,7 +40,7 @@ To discuss the interim report
 
 1. Common academic writing mistakes
 	* We should avoid using emotional word like "excellent" and "beautiful".
-	* We should avoid using abbreviation like "can`t", "it`s" and "don`t".
+	* We should avoid using abbreviation like "can't", "it`s" and "don´t".
 	* We should avoid using personal pronoun like "you", using "a" or "the" instead.
 2. Common mistakes in formating
 	* We should use footnodes to provide a link for pictures.
@@ -48,7 +48,7 @@ To discuss the interim report
 	* We should not use nouns "user", "people" and "student" to indicate one kind of person. Choose one to use.
 	* We should not use nouns "application", "software" and "system" to indicate the project. Choose one to use.
 3. The detail of content that needs to change  
-	* The detail is described in the paper version of interim report which Heshan gave to us after comments .
+	* The detail is described in the paper version of interim report which Heshan gave to us after she commented on it .
 
 ---
 
