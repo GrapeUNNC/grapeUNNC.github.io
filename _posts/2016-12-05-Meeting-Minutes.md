@@ -47,8 +47,8 @@ To discuss the interim report
 	* We should use citation at the last of sentence and place a space before citation.
 	* We should not use nouns "user", "people" and "student" to indicate one kind of person. Choose one to use.
 	* We should not use nouns "application", "software" and "system" to indicate the project. Choose one to use.
-3. The detail of content that needs to change
-  	* The detail is described in the paper version of interim report which Heshan gave to us after comments .
+3. The detail of content that needs to change  
+	* The detail is described in the paper version of interim report which Heshan gave to us after comments .
 
 ---
 
