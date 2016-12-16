@@ -5,9 +5,110 @@
     <description>Welcome to Group V</description>
     <link>https://yangyugao.github.io/</link>
     <atom:link href="https://yangyugao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Nov 2016 21:33:09 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Nov 2016 21:33:09 +0800</lastBuildDate>
+    <pubDate>Fri, 16 Dec 2016 14:30:06 +0800</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2016 14:30:06 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>2016-11-14 Meeting Minutes</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#grp-meeting-minutes&quot; id=&quot;markdown-toc-grp-meeting-minutes&quot;&gt;GRP Meeting Minutes&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#student&quot; id=&quot;markdown-toc-student&quot;&gt;Student:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#supervisors&quot; id=&quot;markdown-toc-supervisors&quot;&gt;Supervisors:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aim&quot; id=&quot;markdown-toc-aim&quot;&gt;Aim:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#agenda&quot; id=&quot;markdown-toc-agenda&quot;&gt;Agenda:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#discussion&quot; id=&quot;markdown-toc-discussion&quot;&gt;Discussion:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#action-points&quot; id=&quot;markdown-toc-action-points&quot;&gt;Action Points&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#next-meeting-21-nov-2016&quot; id=&quot;markdown-toc-next-meeting-21-nov-2016&quot;&gt;Next Meeting: 21 Nov. 2016&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;grp-meeting-minutes&quot;&gt;GRP Meeting Minutes&lt;/h1&gt;
+
+&lt;h4 id=&quot;student&quot;&gt;Student:&lt;/h4&gt;
+
+&lt;p&gt;Zhefeng ZHOU, Yangyu GAO, Muyi JIANG, Jiaying SUN, Kan LIU, Zhe REN&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;supervisors&quot;&gt;Supervisors:&lt;/h4&gt;
+
+&lt;p&gt;Heshan DU&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;aim&quot;&gt;Aim:&lt;/h4&gt;
+
+&lt;p&gt;To discuss the progress of our project&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;agenda&quot;&gt;Agenda:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Stakeholder issue&lt;/li&gt;
+  &lt;li&gt;Website fix&lt;/li&gt;
+  &lt;li&gt;GUI feedback&lt;/li&gt;
+  &lt;li&gt;Interim report structure&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;discussion&quot;&gt;Discussion:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Stakeholder issue
+    &lt;ul&gt;
+      &lt;li&gt;Since we cannot find classmates and supervisors as our stakeholders, we decided to find tutors or PhD students. Our supervisor recommended Paul as our stakeholder. We should prepare consent form and information sheet for each stakeholder. In addition, we decided that the number of stakeholders is 3.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Website fix
+    &lt;ul&gt;
+      &lt;li&gt;We have added some components to our website, such as the introduction of our project and roles. Then, we decided to make the role of our project more specific.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;GUI feedback
+    &lt;ul&gt;
+      &lt;li&gt;Firstly, We talked about the GUI of the mainframe. The supervisor suggested us to combine the speed bar and progress bar. So we would consider this later. We also decided to make the data input part without comma when users input data and make some changes of button and code part’s size.&lt;/li&gt;
+      &lt;li&gt;Secondly, we discussed the efficiency frame of GUI. Some details of words should be changed.&lt;/li&gt;
+      &lt;li&gt;In addition, we decided to use javascript to improve our GUI.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Interim report structures
+    &lt;ul&gt;
+      &lt;li&gt;We wanted to add “Motivation” to the Background Research section. Then we discussed the location of it. We also decided to change the section name from “Prototypes” to “Implementation”.&lt;/li&gt;
+      &lt;li&gt;If we want to add interviews of stakeholders to the appendix of our report, we need to prepare consent form to get permissions of our stakeholders.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;action-points&quot;&gt;Action Points&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Deal with issues of stakeholders&lt;/li&gt;
+  &lt;li&gt;Improve the website&lt;/li&gt;
+  &lt;li&gt;Improve GUI&lt;/li&gt;
+  &lt;li&gt;Prepare the draft of interim report&lt;/li&gt;
+  &lt;li&gt;Prepare UML model&lt;/li&gt;
+  &lt;li&gt;Start to learn javascript&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;next-meeting-21-nov-2016&quot;&gt;Next Meeting: 21 Nov. 2016&lt;/h4&gt;
+
+</description>
+        <pubDate>Mon, 14 Nov 2016 10:30:00 +0800</pubDate>
+        <link>https://yangyugao.github.io/2016/11/14/Meeting-Minutes/</link>
+        <guid isPermaLink="true">https://yangyugao.github.io/2016/11/14/Meeting-Minutes/</guid>
+        
+        
+        <category>Meeting-Minutes</category>
+        
+      </item>
     
       <item>
         <title>2016-10-31 Meeting Minutes</title>
