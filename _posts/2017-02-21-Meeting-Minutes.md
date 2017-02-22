@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  2017-02-21 Meeting Minutes
-date:   2017-02-21 10:30:00 +0800
+title:  2017-2-21 Meeting Minutes
+date:   2017-2-21 10:30:00 +0800
 categories: Meeting-Minutes
 ---
 
