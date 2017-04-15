@@ -53,6 +53,7 @@ To check the process of our project
 
 3. Combination of the user interface and animation
 	* The achieved algorithm animations are combined to the user interface. There is also some weakness like the position of the objects. It should be improved later.
+	
 ---
 
 #### Action Points

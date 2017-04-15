@@ -65,6 +65,6 @@ To check what we have done last week
 	
 ---
 	 
-#### Next Meeting: 28 March 2017
+#### Next Meeting: 28 Mar. 2017
 
 
